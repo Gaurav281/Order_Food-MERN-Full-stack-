@@ -1,0 +1,122 @@
+[
+  {
+    "category": "lunch",
+    "name": "Samosa",
+    "img": "https://source.unsplash.com/600x400?samosa",
+    "options": ["half", "medium", "full"],
+    "description": "A popular Indian snack consisting of a fried pastry filled with spiced potatoes, peas, and sometimes meat.",
+    "price": 120
+  },
+  {
+    "category": "breakfast",
+    "name": "Egg Benedict",
+    "img": "https://source.unsplash.com/600x400?egg%20benedict",
+    "options": ["regular", "with salmon", "with spinach"],
+    "description": "A classic breakfast dish consisting of an English muffin topped with poached eggs, ham or bacon, and hollandaise sauce.",
+    "price": 180
+  },
+  {
+    "category": "dinner",
+    "name": "Spaghetti Bolognese",
+    "img": "https://source.unsplash.com/600x400?spaghetti%20bolognese",
+    "options": ["small", "medium", "large"],
+    "description": "A hearty Italian pasta dish made with spaghetti, minced meat sauce, tomatoes, onions, garlic, and herbs.",
+    "price": 250
+  },
+  {
+    "category": "snack",
+    "name": "Guacamole",
+    "img": "https://source.unsplash.com/600x400?guacamole",
+    "options": ["regular", "spicy", "with chips"],
+    "description": "A creamy dip made from mashed avocados, onions, tomatoes, lime juice, and seasonings, often served with tortilla chips.",
+    "price": 150
+  },
+  {
+    "category": "dessert",
+    "name": "Tiramisu",
+    "img": "https://source.unsplash.com/600x400?tiramisu",
+    "options": ["slice", "mini", "whole cake"],
+    "description": "An elegant Italian dessert consisting of layers of coffee-soaked ladyfingers, mascarpone cheese, cocoa powder, and sometimes liqueur.",
+    "price": 200
+  },
+  {
+    "category": "lunch",
+    "name": "Caesar Salad",
+    "img": "https://source.unsplash.com/600x400?caesar%20salad",
+    "options": ["regular", "with grilled chicken", "with shrimp"],
+    "description": "A refreshing salad made with romaine lettuce, croutons, Parmesan cheese, and a tangy Caesar dressing.",
+    "price": 130
+  },
+  {
+    "category": "breakfast",
+    "name": "Pancakes",
+    "img": "https://source.unsplash.com/600x400?pancakes",
+    "options": ["plain", "blueberry", "chocolate chip"],
+    "description": "Fluffy stacks of griddled batter cakes served with butter and maple syrup, often enjoyed as a breakfast treat.",
+    "price": 160
+  },
+  {
+    "category": "dinner",
+    "name": "Sushi",
+    "img": "https://source.unsplash.com/600x400?sushi",
+    "options": ["sashimi", "maki roll", "nigiri"],
+    "description": "A Japanese dish consisting of vinegared rice combined with various ingredients such as raw fish, seafood, and vegetables.",
+    "price": 280
+  },
+  {
+    "category": "snack",
+    "name": "Hummus",
+    "img": "https://source.unsplash.com/600x400?hummus",
+    "options": ["classic", "roasted red pepper", "spicy"],
+    "description": "A creamy dip made from mashed chickpeas, tahini, lemon juice, garlic, and olive oil, often served with pita bread or vegetables.",
+    "price": 170
+  },
+  {
+    "category": "dessert",
+    "name": "Cheesecake",
+    "img": "https://source.unsplash.com/600x400?cheesecake",
+    "options": ["plain", "strawberry", "chocolate swirl"],
+    "description": "A decadent dessert consisting of a sweetened cream cheese filling on a graham cracker crust, often topped with fruit or sauce.",
+    "price": 220
+  },
+  {
+    "category": "lunch",
+    "name": "Burger",
+    "img": "https://source.unsplash.com/600x400?burger",
+    "options": ["classic", "bacon cheese", "veggie"],
+    "description": "A sandwich consisting of a grilled or fried patty of ground meat (usually beef) served on a bun, often with toppings such as lettuce, tomato, onion, and condiments.",
+    "price": 140
+  },
+  {
+    "category": "breakfast",
+    "name": "Avocado Toast",
+    "img": "https://source.unsplash.com/600x400?avocado%20toast",
+    "options": ["classic", "with poached egg", "with smoked salmon"],
+    "description": "A popular breakfast dish consisting of mashed avocado spread on toasted bread, often topped with salt, pepper, and various toppings.",
+    "price": 190
+  },
+  {
+    "category": "dinner",
+    "name": "Steak",
+    "img": "https://source.unsplash.com/600x400?steak",
+    "options": ["rare", "medium-rare", "well-done"],
+    "description": "A tender cut of beef, grilled or pan-seared to perfection, often served with a side of vegetables and potatoes.",
+    "price": 270
+  },
+  {
+    "category": "snack",
+    "name": "Popcorn",
+    "img": "https://source.unsplash.com/600x400?popcorn",
+    "options": ["buttered", "cheesy", "caramel"],
+    "description": "A light and crunchy snack made from dried kernels of corn, typically popped by heating and often flavored with butter, cheese, or caramel.",
+    "price": 160
+  },
+  {
+    "category": "dessert",
+    "name": "Ice Cream Sundae",
+    "img": "https://source.unsplash.com/600x400?ice%20cream%20sundae",
+    "options": ["vanilla", "chocolate", "strawberry"],
+    "description": "A classic dessert consisting of scoops of ice cream topped with syrup, whipped cream, nuts, and a cherry.",
+    "price": 240
+  }
+]

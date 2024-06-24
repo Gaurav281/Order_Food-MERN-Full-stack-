@@ -1,0 +1,27 @@
+.card-main {
+  min-height: 500px;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-image: linear-gradient(to right, #30cfd0 0%, #330867 100%);
+  gap: 30px;
+  flex-wrap: wrap;
+}
+.second-card {
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-image: linear-gradient(to right, #30cfd0 0%, #330867 100%);
+  flex-wrap: wrap;
+  font-size: 2rem;
+  text-transform: capitalize;
+  color: white;
+  font-weight: 700;
+}
+.second-main {
+  display: flex;
+  flex-wrap: wrap;
+}

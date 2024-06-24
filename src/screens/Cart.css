@@ -1,0 +1,21 @@
+th,
+td {
+  color: white !important;
+}
+#trash-svg {
+  background-color: aliceblue;
+  color: white;
+  height: 35px;
+  width: 35px;
+  border-radius: 50%;
+}
+button {
+  font-size: 20px;
+  background-color: white;
+  color: black;
+  border: 0;
+  outline: 0;
+  border-radius: 20px;
+  padding: 6px 15px;
+  font-weight: bolder !important;
+}

@@ -1,0 +1,13 @@
+/* .container {
+  margin: auto;
+  background-color: aqua;
+} */
+/* .row {
+  background-color: red;
+} */
+.flex-data {
+  display: flex;
+  justify-content: center;
+  /* flex-direction: row;
+  flex-wrap: wrap; */
+}
